@@ -1,0 +1,30 @@
+name: Auto Update AdBlock List
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # อัปเดตทุกวันเวลาเที่ยงคืน (UTC)
+  workflow_dispatch:     # อนุญาตให้กดอัปเดตเองได้ด้วย (Manual run)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Run update script
+      run: python update.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add adblock_list.txt
+        git commit -m "Auto-update Adblock list" || echo "No changes to commit"
+        git push
