@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: My Custom Adblock List
-! Updated: 2026-10-02 03:12:20 UTC
-! Total Rules: 614475
+! Updated: 2026-10-02 04:24:48 UTC
+! Total Rules: 614497
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vidoza.net
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval',domain=thumbs.pro
@@ -139291,6 +139291,7 @@ zzzmxvoxooaat.site
 ||3iy73we.cfd^
 ||3j.tq5qdt.cfd^
 ||3j0pw4ed7uac-a.akamaihd.net^
+||3j1rortrvbo998.cfd^
 ||3j38ej.hair^
 ||3j3je3u.skin^
 ||3j3ygey.hair^
@@ -142655,6 +142656,7 @@ zzzmxvoxooaat.site
 ||7offers.ru^
 ||7ooo.ru^
 ||7p5ruxflv0.com^
+||7p9h118itkqe18o2m59iu5cxfmvvz.rest^
 ||7pe17z68y.com^
 ||7phrfu8c4k83q6.cfd^
 ||7plus.com.au/js/CookieNotice
@@ -162876,6 +162878,7 @@ zzzmxvoxooaat.site
 ||akviv.snagtights.eu^
 ||akvlgenevpivg.online^
 ||akvosbllbxzkx.online^
+||akvqruhyqzsop.site^
 ||akvvkmqkyvqlr.top^
 ||akvvkmqkyvrlw.top^
 ||akwiqx.jdsports.be^
@@ -180896,6 +180899,7 @@ zzzmxvoxooaat.site
 ||amiabledelinquent.com^
 ||amiablefaithfully.com^
 ||amiablelookssuspense.com^
+||amianthveilingsanit.qpon^
 ||amiasdoubleryerb.qpon^
 ||amiblufrancesas.fr^
 ||amicalepompiermauleon.fr^
@@ -191823,6 +191827,7 @@ zzzmxvoxooaat.site
 ||asportuguesas.fr^
 ||asportuguesasparis.fr^
 ||aspringer01.wt-eu02.net^
+||aspringoutlord.qpon^
 ||asprnrwmfvxkv.website^
 ||aspromus.fr^
 ||aspservice.jp^
@@ -205319,6 +205324,7 @@ zzzmxvoxooaat.site
 ||bjakku.com^
 ||bjaox.com^
 ||bjaurora.com^
+||bjbifncqdeunawu.com^
 ||bjbnb.com^
 ||bjbsk.com^
 ||bjc.hrm.healthgrades.com^
@@ -216758,6 +216764,7 @@ zzzmxvoxooaat.site
 ||cantistrac.cyou^
 ||cantoantim.cyou^
 ||cantonesepsychologist.com^
+||cantorspaver.com^
 ||cantranex.net^
 ||cantrd.site^
 ||cantrippery.com^
@@ -222248,6 +222255,7 @@ zzzmxvoxooaat.site
 ||cellstats.mako.co.il^
 ||celltick.com^
 ||cellu-clean.fr^
+||celluledrow.cfd^
 ||cellulefraudecanorddefrance.fr^
 ||cellumove.pl^
 ||celmoris-tromeli.pro^
@@ -241499,6 +241507,7 @@ zzzmxvoxooaat.site
 ||cyan92010.com^
 ||cyan92010.com^$popup
 ||cyanideafghaniuus.info^
+||cyanidewakanda.com^
 ||cyanobactemmrium.info^
 ||cyathaster.cyou^
 ||cyathijozy.shop^
@@ -264961,6 +264970,7 @@ zzzmxvoxooaat.site
 ||ebgagg.novi.ba^
 ||ebgagg.pink.rs^
 ||ebgfyn.zenden.ru^
+||ebgkhzzuqidcml.com^
 ||ebgnpwucfhucvbr.com^
 ||ebgock7kz.com^
 ||ebh.eggbackhome.com^
@@ -273037,6 +273047,7 @@ zzzmxvoxooaat.site
 ||estructgryllo92.com^
 ||estrulavag.autos^
 ||estrumarawak.qpon^
+||estrumsrenish.qpon^
 ||estsecure.xyz^
 ||estuary98.top^
 ||estudiocils.com.ar^
@@ -286381,6 +286392,7 @@ zzzmxvoxooaat.site
 ||fmentoring.com^
 ||fmeounjodrepw.site^
 ||fmfrht.icu^
+||fmgawnezvfppf.site^
 ||fmgbe.vktrygear.com^
 ||fmhzi.ergopouch.com.au^
 ||fmi-apple.fr^
@@ -292392,6 +292404,7 @@ zzzmxvoxooaat.site
 ||fwzqvloprinqx.space^
 ||fwzvgdqhtxsxc.store^
 ||fwzvq.ca6a8b74-32ac-45ea-84f0-fb607b8789ab.click^
+||fwzwtaygetxii.site^
 ||fwzyuvg.cn^
 ||fx-globals.net^
 ||fx-master-bot.com^
@@ -347074,6 +347087,7 @@ zzzmxvoxooaat.site
 ||labphotoservice.mom^
 ||labqanquepostale.fr^
 ||labqpostale.fr^
+||labracatenaunidly.cyou^
 ||labretnixies.cfd^
 ||labrorimar.online^
 ||labs-cdn.revcontent.com^
@@ -379752,6 +379766,7 @@ zzzmxvoxooaat.site
 ||mhmarkets.click^
 ||mhmciof8ef.com^
 ||mhmp.bruker.com^
+||mhmqdeifitclh.site^
 ||mhmrksbozygwo.online^
 ||mhmzhc.trysnow.com^
 ||mhnpec.nimaxi-online.com^
@@ -399788,6 +399803,7 @@ zzzmxvoxooaat.site
 ||noxiouswear.pro^
 ||noxpulselab.info^
 ||noxthxomoccyr.site^
+||noxtinulxrdor.online^
 ||noxvyr.cfd^
 ||noxxclient.org^
 ||noya-il.com^
@@ -400249,6 +400265,7 @@ zzzmxvoxooaat.site
 ||nsibgi.gadventures.com.au^
 ||nsikar.ackermann.ch^
 ||nsitza.terresdecafe.com^
+||nsixrjjgqwio.com^
 ||nsju7bwnks.xyz^
 ||nsl.ruidhs.cfd^
 ||nslee.jenshansen.com^
@@ -471644,6 +471661,7 @@ zzzmxvoxooaat.site
 ||seyfwl.styl.pl^
 ||seyipagkmopqv.com^
 ||seyjzx.jeanpatrique.com^
+||seyrqfcwlwrae.website^
 ||seyscdqqnejex.site^
 ||seyyahhome.com^
 ||sez-pr.com^
@@ -491645,6 +491663,7 @@ zzzmxvoxooaat.site
 ||spadi.thealmightyruler.com^
 ||spadsync.com^
 ||spaecer.com^
+||spagpjplyvrf.com^
 ||spahicaooncer.info^
 ||spahipyemias.cyou^
 ||spahisennetmabolo.cfd^
@@ -547437,6 +547456,7 @@ zzzmxvoxooaat.site
 ||umguf.samialert.com^
 ||umgzvlbrqzyeq.online^
 ||umh0.teamekosport.com^
+||umhfftghpj.com^
 ||umhjh9rwe.com^
 ||umhkzidngrmor.website^
 ||umhyck.belvilla.com^
@@ -560442,6 +560462,7 @@ zzzmxvoxooaat.site
 ||vmtzf.sokolovelaw.com^
 ||vmufecicjydyb.website^
 ||vmuid.com^
+||vmvuzdhezjcda.site^
 ||vmvxxphjazbtu.space^
 ||vmvzzmv.shop^
 ||vmweb.net/identity.min.js
@@ -601015,6 +601036,7 @@ zzzmxvoxooaat.site
 ||xanvurleqai-app.com^
 ||xanvurleqtrade.com^
 ||xaogi.com^
+||xaovguiskhgtx.space^
 ||xapads.com^
 ||xaphxtqdlqk.com^
 ||xapi.juicyads.com^
